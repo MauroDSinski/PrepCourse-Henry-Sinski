@@ -1,2 +1,2 @@
-# PrepCourse-Henry-Sinski
-Este es un repositorio de prueba del modulo 2 de Henry
+"Este repositorio es una prueba de como crear un repositorio y clonar desde github a mi computadora."
+
